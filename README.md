@@ -25,7 +25,7 @@ Config
 ------
 To use pinentry-dmenu add in `~/.gnupg/gpg-agent.conf`:
 
-	pinentry-program <absolut path to pinentry-dmenu>
+	pinentry-program <absolute path to pinentry-dmenu>
 
 The config is located in `~/.gnupg/pinentry-dmenu.conf`.
 
